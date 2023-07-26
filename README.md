@@ -10,3 +10,7 @@ There were several steps to train the model:
 4. The model was trained again using all train data
 # Source code
 You can see the code for U-Net outputs in [rails-train.ipynb](https://github.com/georgechaikin/rails-processing/blob/main/rails-train.ipynb)
+# Example
+| Original  | Mask | Prediction |
+| ------------- | ------------- |------------- |
+|   <img src="https://github.com/georgechaikin/rails-processing/blob/main/images/image.png.jpg?raw=true"/>  | <img src="https://github.com/georgechaikin/rails-processing/blob/main/images/mask.jpg?raw=true" />  |<img src="https://github.com/georgechaikin/rails-processing/blob/main/images/output.jpg?raw=true" />  |
