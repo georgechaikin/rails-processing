@@ -13,4 +13,4 @@ You can see the code for U-Net outputs in [rails-train.ipynb](https://github.com
 # Example
 | Original  | Mask | Prediction |
 | ------------- | ------------- |------------- |
-|   <img src="https://github.com/georgechaikin/rails-processing/blob/main/images/image.png.jpg?raw=true"/>  | <img src="https://github.com/georgechaikin/rails-processing/blob/main/images/mask.jpg?raw=true" />  |<img src="https://github.com/georgechaikin/rails-processing/blob/main/images/output.jpg?raw=true" />  |
+|   <img src="https://github.com/georgechaikin/rails-processing/blob/main/images/image.png?raw=true"/>  | <img src="https://github.com/georgechaikin/rails-processing/blob/main/images/mask.png?raw=true" />  |<img src="https://github.com/georgechaikin/rails-processing/blob/main/images/output.png?raw=true" />  |
